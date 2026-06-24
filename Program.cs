@@ -18,8 +18,8 @@ namespace parcial2_Prog3
             var masterControl = new MasterControl
             {
                 NombreAlumno = "Santiago",
-                ApellidoAlumno = "Ropallo",
-                DniAlumno = "44.200.749",
+                ApellidoAlumno = "Pereyra",
+                DniAlumno = "41.650.097",
                 NombreMateria = "Programación 3"
             };
 
